@@ -3,12 +3,12 @@ import './styling.css'
 
 const Banner = () => {
   return (
-    <header>
+    <h1>
       Orbit Report
       <p>
         Click on the buttons to view the satellites in a specified orbit type
       </p>
-    </header>
+    </h1>
   );
 };
 
